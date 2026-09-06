@@ -20,7 +20,7 @@ MedVision is an AI-assisted chest X-ray classification system that predicts `NOR
 | Upload screen | Prediction result | Download Report |
 |:---:|:---:|:---:|
 | ![MedVision upload screen](Screenshots/DL1.png) | ![MedVision prediction result](Screenshots/DL2.png) | ![Download Report](Screenshots/DL3.png) |
-| Upload a chest X-ray for analysis. | Review the predicted class and confidence metrics. | Inspect the explainability overlay and analysis output. |
+| Upload a chest X-ray for analysis. | Review the predicted class and confidence metrics. | Download the analysis output report as pdf. |
 
 ---
 
